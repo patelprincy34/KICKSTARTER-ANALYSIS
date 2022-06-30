@@ -6,7 +6,7 @@ The purpose of this project was to visualize campaign outcomes based on their la
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date![Theater_Outcomes_vs_Launch png](https://user-images.githubusercontent.com/93439516/141724126-1df4c940-f112-4f6a-87a1-c1d147365cc6.png)
+### Analysis of Outcomes Based on Launch Date ![Theater_Outcomes_vs_Launch png](https://user-images.githubusercontent.com/93439516/141724126-1df4c940-f112-4f6a-87a1-c1d147365cc6.png)
 
 ### Analysis of Outcomes Based on Goals  ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/93439516/141724051-39d4707b-e3e6-4db0-9e54-d444fcaaf961.png)  
 
