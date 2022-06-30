@@ -1,5 +1,5 @@
 # KICKSTARTER-ANALYSIS
-PERFORMING ANALYSIS ON KICKSTARTER DATE TO UNCOVER TRENDS
+
 
 ## Overview of Project
 The purpose of this project was to visualize campaign outcomes based on their launch dates and their funding goals.
