@@ -19,13 +19,13 @@ I had challenging time graphing Outcomes Based on Goals; I could not get the Per
 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date? 
-* For one the summer months had more success rate. Second there were there were more failed outcomes during Winter months. 
+  * For one the summer months had more success rate. Second there were there were more failed outcomes during Winter months. 
 
 - What can you conclude about the Outcomes based on Goals? 
-* That there were no cancelled plays.  
+  * That there were no cancelled plays.  
 
 - What are some limitations of this dataset?
-* The dataset is old, in order to determine recent trends we need recent data. 
+  * The dataset is old, in order to determine recent trends we need recent data. 
 
 - What are some other possible tables and/or graphs that we could create?
-* Study outcomes based on the duration of the campaigns and based on number of backers. 
+  * Study outcomes based on the duration of the campaigns and based on number of backers. 
