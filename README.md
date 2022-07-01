@@ -13,15 +13,19 @@ The purpose of this project was to visualize campaign outcomes based on their la
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/93439516/141724051-39d4707b-e3e6-4db0-9e54-d444fcaaf961.png)  
 
 
-### I had challenging time graphing Outcomes Based on Goals; I could not get the Percentage Failed graph line to show up on the graph. I solved the problem by creating a new graph and using the edit and filter menu to out the unnecessary graph line. 
+I had challenging time graphing Outcomes Based on Goals; I could not get the Percentage Failed graph line to show up on the graph. I solved the problem by creating a new graph and using the edit and filter menu to out the unnecessary graph line. 
 
 ## Results
 
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date? For one the summer months had more success rate. Second there were there were more failed outcomes during Winter months. 
+- What are two conclusions you can draw about the Outcomes based on Launch Date? 
+* For one the summer months had more success rate. Second there were there were more failed outcomes during Winter months. 
 
-- What can you conclude about the Outcomes based on Goals? That there were no cancelled plays.  
+- What can you conclude about the Outcomes based on Goals? 
+* That there were no cancelled plays.  
 
 - What are some limitations of this dataset?
+* The dataset is old, in order to determine recent trends we need recent data. 
 
 - What are some other possible tables and/or graphs that we could create?
+* Study outcomes based on the duration of the campaigns and based on number of backers. 
